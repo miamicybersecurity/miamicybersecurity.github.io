@@ -55,7 +55,7 @@
   position: "IT"
   rank: 5
   linkedin: "https://www.linkedin.com/in/joseph-kutka-46376b382/"
-  photo: "joseph-kutka.jpg"
+  photo: "/assets/img/exec/joseph-kutka.jpg"
 
 - name: "Max Daugherty"
   position: "IT"
