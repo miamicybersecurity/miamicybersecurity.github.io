@@ -1,6 +1,6 @@
 # MUCSC Agentic Lab Resources
 
-This folder contains the resources for the Miami University Cybersecurity Club's AI Agentic Lab. These materials introduce members to locally hosted AI models, large language models (LLMs), and building their first AI agents using Python and Ollama.
+This folder contains the resources for the Miami University Cybersecurity Club's Agentic AI Lab. These materials introduce members to locally hosted AI models, large language models (LLMs), and building their first AI agents using Python and Ollama.
 
 ## Files
 
