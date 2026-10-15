@@ -2,16 +2,13 @@ CRITICAL
 ========
 
 - Share private meeting decks
-  - Example: `2023-09-06-fall-2023-meeting-1-club-kickoff.md` 
-- Fix "Join us on the Hub" button
-- Fix Code of Ethics + Constitution footer link
-- Rewrite the Quantum Computing post body
+  - Example: `2023-09-06-fall-2023-meeting-1-club-kickoff.md`
 - Fix F23 meeting 3's post (just says "Redacted")
 - Renumber Spring 2026 meetings from 03-31 onward
 - Add the missing closing </div> in `about.html`
 - Draft SOP for posts (discourage posting Google Meet links)
   - Remove Google Meet meeting codes
-- Update "/about/" for F26 exec and alumni
+
 
 NOT SO CRITICAL
 ===============
