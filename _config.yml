@@ -18,6 +18,10 @@ baseurl: ""
 # `slug:` front matter key.
 permalink: /:slug/
 
+# Publish posts dated in the future. Meeting posts are written ahead of the
+# meeting date, and Jekyll skips future-dated posts by default.
+future: true
+
 plugins:
   - jekyll-sitemap
 
